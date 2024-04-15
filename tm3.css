@@ -42,6 +42,7 @@ body {
 }
 
 .list li {
+    margin: 0 auto;
     width: 380px;
     height: 540px;
     padding: 50px 40px;
